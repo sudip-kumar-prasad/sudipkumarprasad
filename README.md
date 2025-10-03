@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sudip Kumar Prasad  
+# 👋 Hi, I'm Sudip Kumar Prasad
 
 🎓 B.Tech in Computer Science (AI & ML) | 🤖 Robotics Enthusiast | 💻 Aspiring Full Stack Developer  
 
